@@ -1,14 +1,8 @@
 # 검은 고딕(BlackHanSans)<br>
 
-<a href="https://wess.tistory.com/233" target="_blank">
+<a href="https://wess.tistory.com/245" target="_blank">
     <img src="https://webfontworld.github.io/BlackHanSans/BlackHanSans.png" alt="검은고딕" style="width:300px">
 </a>
-
-<br>
-
-<pre>
-    &lt;link href="https://webfontworld.github.io/BlackHanSans/BlackHanSans.css" rel="stylesheet"&gt;
-</pre>
 
 <pre>
 @font-face {
