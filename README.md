@@ -7,7 +7,7 @@
 <br>
 
 <pre>
-    <link href="https://webfontworld.github.io/BlackHanSans/BlackHanSans.css" rel="stylesheet">
+    &lt;link href="https://webfontworld.github.io/BlackHanSans/BlackHanSans.css" rel="stylesheet"&gt;
 </pre>
 
 <pre>
