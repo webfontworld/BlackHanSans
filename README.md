@@ -1,16 +1,25 @@
-# BlackHanSans
+# 검은 고딕(BlackHanSans)<br>
 
-## 검은 고딕<br>
-<img src="https://webfontworld.github.io/BlackHanSans/BlackHanSans.png" alt="검은고딕" style="width:300px"><br>
-https://webfontworld.github.io/BlackHanSans/BlackHanSans.css<br>
-https://wess.tistory.com/233
+<a href="https://wess.tistory.com/233" target="_blank">
+    <img src="https://webfontworld.github.io/BlackHanSans/BlackHanSans.png" alt="검은고딕" style="width:300px">
+</a>
+
+<br>
+
+<pre>
+    <link href="https://webfontworld.github.io/BlackHanSans/BlackHanSans.css" rel="stylesheet">
+</pre>
 
 <pre>
 @font-face {
     font-family: 'BlackHanSans';
-    font-weight: normal; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/BlackHanSans/BlackHanSans.ttf') format("truetype");
     font-display: swap;
 }
 </pre>
